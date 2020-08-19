@@ -1,3 +1,5 @@
+# Exercice 51 : L'age de chien en années humaines
+
 age = int(input("Entrez l'âge du chien: "))
  
 if age < 0:
